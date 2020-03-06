@@ -43,7 +43,7 @@ const [Bessie, , Dolly, Babe, Little] = 'cow horse sheep pig chicken'.split(" ")
 
 // 4. Use destructuring to assign appropriate variables using the color names.
 
-const [black_and_white, , black, pink] = 'cow horse sheep pig chicken'
+const [black_and_white, , black, pink] = 'cow horse sheep pig chicken'.split(" ")
 
 
 // 4. Use destructuring to assign appropriate variables using the color names.
